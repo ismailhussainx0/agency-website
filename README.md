@@ -1,6 +1,22 @@
-# agency-website
-Modern responsive agency landing page with smooth scrolling navigation, scroll-triggered animations, and dynamic stats counters using vanilla JavaScript.
+# Agency Website 🚀
 
-Link
+A modern and responsive agency landing page built with HTML, CSS, and vanilla JavaScript.
 
-https://ismailhussainx0.github.io/agency-website/
+## 🔗 Live Demo
+👉 [View Live Project](https://ismailhussainx0.github.io/agency-website/)
+
+## ✨ Features
+- Smooth scrolling navigation
+- Scroll-triggered animations
+- Dynamic stats counter
+- Fully responsive on all devices
+- Clean and modern UI
+
+## 🛠️ Built With
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+- Bootstrap 5
+
+## 👨‍💻 Author
+**Muhammad Ismail** — [Portfolio](https://ismailhussainx0.github.io/Portfolio-Website/) | [LinkedIn](https://www.linkedin.com/in/ismail-hussainx0/)
