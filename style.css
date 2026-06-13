@@ -169,3 +169,8 @@ nav img {
 .icon-color {
     color: #2a5298;
 }
+
+/* contact section form */
+.submit-message{
+    display: none;
+}
